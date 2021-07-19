@@ -1,2 +1,3 @@
 # Mailing
- Petit mailing
+
+ Petit mailing pour envoyer des mailings…
